@@ -1,0 +1,8 @@
+<html>
+<head>
+</head>
+<body>
+let x = 5;
+console.log(x);
+</body>
+</html>
